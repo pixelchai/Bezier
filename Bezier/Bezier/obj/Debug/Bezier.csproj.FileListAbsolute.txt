@@ -1,0 +1,10 @@
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\_Android\Bezier\Bezier\bin\Debug\Bezier.exe.config
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\_Android\Bezier\Bezier\bin\Debug\Bezier.exe
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\_Android\Bezier\Bezier\bin\Debug\Bezier.pdb
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\_Android\Bezier\Bezier\obj\Debug\Bezier.csprojResolveAssemblyReference.cache
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\_Android\Bezier\Bezier\obj\Debug\Bezier.BezierDisplay.resources
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\_Android\Bezier\Bezier\obj\Debug\Bezier.Properties.Resources.resources
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\_Android\Bezier\Bezier\obj\Debug\Bezier.csproj.GenerateResource.Cache
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\_Android\Bezier\Bezier\obj\Debug\Bezier.exe
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\_Android\Bezier\Bezier\obj\Debug\Bezier.pdb
+C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\_Android\Bezier\Bezier\obj\Debug\Bezier.Bezier.resources
